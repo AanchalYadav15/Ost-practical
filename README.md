@@ -1,2 +1,2 @@
 # Ost-practical
-Oat Practical
+Ost Practical
